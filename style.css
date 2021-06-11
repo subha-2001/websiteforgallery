@@ -241,6 +241,8 @@ body {
     background: url(https://git.io/JUW4t);
 	background-size: cover;
 	overflow: hidden;
+	opacity:0.9;
+	
 }
 .scroll {
     min-height:100%
